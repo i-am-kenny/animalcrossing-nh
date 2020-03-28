@@ -2599,7 +2599,7 @@
     "description": "",
     "value": 15000,
     "locations": [
-      "RIVERC"
+      "RIVER_CLIFF"
     ],
     "months": [
       "MAR",
@@ -2886,7 +2886,7 @@
     "description": "",
     "value": 1800,
     "locations": [
-      "RIVERM"
+      "RIVER_MOUTH"
     ],
     "months": [
       "SEP"
@@ -4134,7 +4134,7 @@
     "description": "",
     "value": 15000,
     "locations": [
-      "RIVERC"
+      "RIVER_CLIFF"
     ],
     "months": [
       "JAN",
@@ -4170,7 +4170,7 @@
     "description": "",
     "value": 10000,
     "locations": [
-      "RIVERM"
+      "RIVER_MOUTH"
     ],
     "months": [
       "JAN",
