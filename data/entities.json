@@ -1394,7 +1394,8 @@
       19,
       20
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_6J",
@@ -1432,7 +1433,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_M9",
@@ -1468,7 +1470,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_lK",
@@ -1504,7 +1507,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_j6",
@@ -1552,7 +1556,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_qX",
@@ -1586,7 +1591,8 @@
       23,
       3
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_k0",
@@ -1614,7 +1620,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_n7",
@@ -1658,7 +1665,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_3P",
@@ -1709,7 +1717,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_xN",
@@ -1738,7 +1747,8 @@
       23,
       3
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_gO",
@@ -1786,7 +1796,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_5n",
@@ -1820,7 +1831,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_a9",
@@ -1865,7 +1877,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_L5",
@@ -1916,7 +1929,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_EB",
@@ -1954,7 +1968,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_Nn",
@@ -1994,7 +2009,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_BN",
@@ -2040,7 +2056,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_eZ",
@@ -2085,7 +2102,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_Rk",
@@ -2138,7 +2156,8 @@
     ],
     "conditions": [
       "RAIN"
-    ]
+    ],
+    "shadow": "6"
   },
   {
     "id": "FISH_1Q",
@@ -2183,7 +2202,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_bJ",
@@ -2234,7 +2254,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_Y8",
@@ -2280,7 +2301,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_oq",
@@ -2324,7 +2346,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_KN",
@@ -2360,7 +2383,8 @@
       19,
       20
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_J3",
@@ -2397,7 +2421,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_Op",
@@ -2441,7 +2466,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_P9",
@@ -2484,7 +2510,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_8K",
@@ -2520,7 +2547,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "6"
   },
   {
     "id": "FISH_y1",
@@ -2545,7 +2573,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_G1",
@@ -2590,7 +2619,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_Zj",
@@ -2629,7 +2659,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_0a",
@@ -2680,7 +2711,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_Ak",
@@ -2716,7 +2748,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "FIN"
   },
   {
     "id": "FISH_w8",
@@ -2746,7 +2779,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_Wl",
@@ -2782,7 +2816,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "FIN"
   },
   {
     "id": "FISH_QR",
@@ -2833,7 +2868,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_X8",
@@ -2877,7 +2913,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_pj",
@@ -2917,7 +2954,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_mE",
@@ -2961,7 +2999,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_D1",
@@ -3003,7 +3042,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_4K",
@@ -3048,7 +3088,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_VB",
@@ -3083,7 +3124,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_98",
@@ -3125,7 +3167,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_vA0",
@@ -3159,7 +3202,8 @@
       19,
       20
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_7OO",
@@ -3189,7 +3233,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_65J",
@@ -3216,7 +3261,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_MN9",
@@ -3261,7 +3307,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "6"
   },
   {
     "id": "FISH_lNK",
@@ -3296,7 +3343,8 @@
       19,
       20
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "FIN"
   },
   {
     "id": "FISH_jO6",
@@ -3347,7 +3395,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_qKX",
@@ -3381,7 +3430,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_kP0",
@@ -3424,7 +3474,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_n07",
@@ -3467,7 +3518,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_3jP",
@@ -3509,7 +3561,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_xKN",
@@ -3543,7 +3596,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_gMO",
@@ -3585,7 +3639,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_5qn",
@@ -3613,7 +3668,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_aK9",
@@ -3647,7 +3703,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_LE5",
@@ -3683,7 +3740,8 @@
       19,
       20
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_EJB",
@@ -3734,7 +3792,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_Nyn",
@@ -3778,7 +3837,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "NARROW"
   },
   {
     "id": "FISH_B8N",
@@ -3804,7 +3864,8 @@
       23,
       3
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_eKZ",
@@ -3837,7 +3898,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_R9k",
@@ -3873,7 +3935,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "FIN"
   },
   {
     "id": "FISH_1MQ",
@@ -3924,7 +3987,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_bbJ",
@@ -3967,7 +4031,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_Y58",
@@ -4014,7 +4079,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_ogq",
@@ -4043,7 +4109,8 @@
       14,
       15
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_KJN",
@@ -4077,7 +4144,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_JA3",
@@ -4125,7 +4193,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_ONp",
@@ -4161,7 +4230,8 @@
       7,
       8
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "6"
   },
   {
     "id": "FISH_PG9",
@@ -4207,7 +4277,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "6"
   },
   {
     "id": "FISH_8xK",
@@ -4250,7 +4321,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "FIN"
   },
   {
     "id": "FISH_yb1",
@@ -4295,7 +4367,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "2"
   },
   {
     "id": "FISH_GJ1",
@@ -4337,7 +4410,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_Zgj",
@@ -4381,7 +4455,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "1"
   },
   {
     "id": "FISH_0qa",
@@ -4424,7 +4499,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "4"
   },
   {
     "id": "FISH_A5k",
@@ -4469,7 +4545,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "5"
   },
   {
     "id": "FISH_wQ8",
@@ -4512,7 +4589,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "FIN"
   },
   {
     "id": "FISH_Wnl",
@@ -4557,7 +4635,8 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   },
   {
     "id": "FISH_QJR",
@@ -4604,6 +4683,7 @@
       22,
       23
     ],
-    "conditions": []
+    "conditions": [],
+    "shadow": "3"
   }
 ]
