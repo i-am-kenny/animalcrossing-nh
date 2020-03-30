@@ -5,13 +5,21 @@
     "name": "Agrias Butterfly",
     "description": "",
     "value": 3000,
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       8,
@@ -24,7 +32,7 @@
       15,
       16
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_P3",
@@ -32,7 +40,21 @@
     "name": "Ant",
     "description": "",
     "value": 80,
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -72,7 +94,7 @@
       22,
       23
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_2L",
@@ -80,13 +102,21 @@
     "name": "Atlas Moth",
     "description": "",
     "value": 3000,
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -99,7 +129,7 @@
       23,
       3
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Gy",
@@ -107,7 +137,21 @@
     "name": "Bagworm",
     "description": "",
     "value": 600,
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -147,7 +191,7 @@
       22,
       23
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_zr",
@@ -155,13 +199,21 @@
     "name": "Banded Dragon",
     "description": "",
     "value": 4500,
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       8,
@@ -174,7 +226,7 @@
       15,
       16
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_64",
@@ -182,9 +234,13 @@
     "name": "Bell Cricket",
     "description": "",
     "value": 430,
-    "months": [
+    "northernMonths": [
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR"
     ],
     "hours": [
       0,
@@ -203,7 +259,7 @@
       6,
       7
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_4a",
@@ -211,9 +267,13 @@
     "name": "Blue Weevil Beetle",
     "description": "",
     "value": 800,
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB"
     ],
     "hours": [
       0,
@@ -241,7 +301,7 @@
       22,
       23
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Dq",
@@ -249,9 +309,13 @@
     "name": "Brown Cicada",
     "description": "",
     "value": 250,
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB"
     ],
     "hours": [
       8,
@@ -264,7 +328,7 @@
       15,
       16
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Jz",
@@ -272,13 +336,25 @@
     "name": "Centipede",
     "description": "",
     "value": 300,
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
       "APR",
       "MAY",
       "JUN",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
       "SEP",
       "OCT",
       "NOV",
@@ -293,7 +369,7 @@
       21,
       22
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_AJ",
@@ -301,9 +377,13 @@
     "name": "Cicada Shell",
     "description": "",
     "value": 10,
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB"
     ],
     "hours": [
       0,
@@ -331,7 +411,7 @@
       22,
       23
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_B3",
@@ -339,7 +419,21 @@
     "name": "Citrus Long-horned Beetle",
     "description": "",
     "value": 350,
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -379,7 +473,7 @@
       22,
       23
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_nx",
@@ -387,12 +481,19 @@
     "name": "Common Bluebottle",
     "description": "",
     "value": 300,
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       4,
@@ -411,7 +512,7 @@
       17,
       18
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_kO",
@@ -419,7 +520,7 @@
     "name": "Common Butterfly",
     "description": "",
     "value": 160,
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -431,6 +532,18 @@
       "NOV",
       "DEC"
     ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
     "hours": [
       4,
       5,
@@ -448,7 +561,7 @@
       17,
       18
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_MK",
@@ -456,10 +569,15 @@
     "name": "Cricket",
     "description": "",
     "value": 130,
-    "months": [
+    "northernMonths": [
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY"
     ],
     "hours": [
       0,
@@ -478,7 +596,7 @@
       6,
       7
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_qr",
@@ -486,9 +604,13 @@
     "name": "Cyclommatus Stag",
     "description": "",
     "value": 8000,
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB"
     ],
     "hours": [
       0,
@@ -507,7 +629,7 @@
       6,
       7
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_oE",
@@ -515,11 +637,17 @@
     "name": "Damselfly",
     "description": "",
     "value": 500,
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG"
     ],
     "hours": [
       0,
@@ -547,7 +675,7 @@
       22,
       23
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_5r",
@@ -555,7 +683,7 @@
     "name": "Darner Dragonfly",
     "description": "",
     "value": 230,
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
@@ -563,6 +691,15 @@
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       8,
@@ -575,7 +712,7 @@
       15,
       16
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_p5",
@@ -583,12 +720,19 @@
     "name": "Diving Beetle",
     "description": "",
     "value": 800,
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       8,
@@ -603,7 +747,7 @@
       17,
       18
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_RY",
@@ -611,10 +755,15 @@
     "name": "Drone Beetle",
     "description": "",
     "value": 200,
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "DEC"
     ],
     "hours": [
       0,
@@ -642,7 +791,7 @@
       22,
       23
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_V8",
@@ -650,10 +799,15 @@
     "name": "Dung Beetle",
     "description": "",
     "value": 2500,
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "DEC"
+    ],
+    "southernMonths": [
+      "JUN",
+      "JUL",
+      "AUG"
     ],
     "hours": [
       0,
@@ -681,7 +835,7 @@
       22,
       23
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_xb",
@@ -689,10 +843,15 @@
     "name": "Earth-boring Dung Beetle",
     "description": "",
     "value": 300,
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "DEC"
+    ],
+    "southernMonths": [
+      "JUN",
+      "JUL",
+      "AUG"
     ],
     "hours": [
       0,
@@ -720,7 +879,7 @@
       22,
       23
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_E2",
@@ -728,11 +887,17 @@
     "name": "Emperor Butterfly",
     "description": "",
     "value": 4000,
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       4,
@@ -751,7 +916,7 @@
       17,
       18
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_9z",
@@ -759,16 +924,20 @@
     "name": "Evening Cicada",
     "description": "",
     "value": 550,
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB"
     ],
     "hours": [
       16,
       17,
       18
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_3N",
@@ -776,8 +945,11 @@
     "name": "Firefly",
     "description": "",
     "value": 300,
-    "months": [
+    "northernMonths": [
       "JUN"
+    ],
+    "southernMonths": [
+      "DEC"
     ],
     "hours": [
       0,
@@ -790,7 +962,7 @@
       23,
       3
     ],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Qk",
@@ -798,9 +970,10 @@
     "name": "Flea",
     "description": "",
     "value": 70,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Yq",
@@ -808,9 +981,10 @@
     "name": "Fly",
     "description": "",
     "value": 60,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_vo",
@@ -818,9 +992,10 @@
     "name": "Giant Cicada",
     "description": "",
     "value": 500,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Lp",
@@ -828,9 +1003,10 @@
     "name": "Giant Stag",
     "description": "",
     "value": 10000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_N3",
@@ -838,9 +1014,10 @@
     "name": "Giant Water Bug",
     "description": "",
     "value": 2000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_eA",
@@ -848,9 +1025,10 @@
     "name": "Giraffe Stag",
     "description": "",
     "value": 12000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_jV",
@@ -858,9 +1036,10 @@
     "name": "Golden Stag",
     "description": "",
     "value": 12000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_8B",
@@ -868,9 +1047,10 @@
     "name": "Goliath Beetle",
     "description": "",
     "value": 8000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_wv",
@@ -878,9 +1058,10 @@
     "name": "Grasshopper",
     "description": "",
     "value": 160,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_a3",
@@ -888,9 +1069,10 @@
     "name": "Great Purple Emperor",
     "description": "",
     "value": 3000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Zd",
@@ -898,9 +1080,10 @@
     "name": "Hermit Crab",
     "description": "",
     "value": 1000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_bL",
@@ -908,9 +1091,10 @@
     "name": "Honeybee",
     "description": "",
     "value": 200,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_7l",
@@ -918,9 +1102,10 @@
     "name": "Horned Atlas",
     "description": "",
     "value": 8000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_rY",
@@ -928,9 +1113,10 @@
     "name": "Horned Dynastid",
     "description": "",
     "value": 1350,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_O0",
@@ -938,9 +1124,10 @@
     "name": "Horned Elephant",
     "description": "",
     "value": 8000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_db",
@@ -948,9 +1135,10 @@
     "name": "Horned Hercules",
     "description": "",
     "value": 12000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_KY",
@@ -958,9 +1146,10 @@
     "name": "Jewel Beetle",
     "description": "",
     "value": 2400,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_lj",
@@ -968,9 +1157,10 @@
     "name": "Ladybug",
     "description": "",
     "value": 200,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_1n",
@@ -978,9 +1168,10 @@
     "name": "Long Locust",
     "description": "",
     "value": 200,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_yV3",
@@ -988,9 +1179,10 @@
     "name": "Madagascan Sunset Moth",
     "description": "",
     "value": 2500,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_0DD",
@@ -998,9 +1190,10 @@
     "name": "Man-faced Stink Bug",
     "description": "",
     "value": 1000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Pq3",
@@ -1008,9 +1201,10 @@
     "name": "Mantis",
     "description": "",
     "value": 430,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_27L",
@@ -1018,9 +1212,10 @@
     "name": "Migratory Locust",
     "description": "",
     "value": 600,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_G3y",
@@ -1028,9 +1223,10 @@
     "name": "Miyama Stag",
     "description": "",
     "value": 1000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_zKr",
@@ -1038,9 +1234,10 @@
     "name": "Mole Cricket",
     "description": "",
     "value": 500,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_6N4",
@@ -1048,9 +1245,10 @@
     "name": "Monarch Butterfly",
     "description": "",
     "value": 140,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_4Aa",
@@ -1058,9 +1256,10 @@
     "name": "Mosquito",
     "description": "",
     "value": 130,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Deq",
@@ -1068,9 +1267,10 @@
     "name": "Moth",
     "description": "",
     "value": 130,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_JMz",
@@ -1078,9 +1278,10 @@
     "name": "Orchid Mantis",
     "description": "",
     "value": 2400,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_ANJ",
@@ -1088,9 +1289,10 @@
     "name": "Paper Kite Butterfly",
     "description": "",
     "value": 1000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_BA3",
@@ -1098,9 +1300,10 @@
     "name": "Peacock Butterfly",
     "description": "",
     "value": 2500,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_nlx",
@@ -1108,9 +1311,10 @@
     "name": "Pill Bug",
     "description": "",
     "value": 250,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_kYO",
@@ -1118,9 +1322,10 @@
     "name": "Pondskater",
     "description": "",
     "value": 130,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_M3K",
@@ -1128,9 +1333,10 @@
     "name": "Queen Alexandra's Birdwing",
     "description": "",
     "value": 4000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_qar",
@@ -1138,9 +1344,10 @@
     "name": "Rainbow Stag",
     "description": "",
     "value": 8000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_o5E",
@@ -1148,9 +1355,10 @@
     "name": "Raja Brook's Birdwing",
     "description": "",
     "value": 2500,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_56r",
@@ -1158,9 +1366,10 @@
     "name": "Red Dragonfly",
     "description": "",
     "value": 180,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_p95",
@@ -1168,9 +1377,10 @@
     "name": "Rice Grasshopper",
     "description": "",
     "value": 160,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_RKY",
@@ -1178,9 +1388,10 @@
     "name": "Robust Cicada",
     "description": "",
     "value": null,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_VA8",
@@ -1188,9 +1399,10 @@
     "name": "Rosalia Batesi Beetle",
     "description": "",
     "value": 3000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_x3b",
@@ -1198,9 +1410,10 @@
     "name": "Saw Stag",
     "description": "",
     "value": null,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Ek2",
@@ -1208,9 +1421,10 @@
     "name": "Scarab Beetle",
     "description": "",
     "value": null,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_9Nz",
@@ -1218,9 +1432,10 @@
     "name": "Scorpion",
     "description": "",
     "value": 8000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_3pN",
@@ -1228,9 +1443,10 @@
     "name": "Snail",
     "description": "",
     "value": 250,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_QAk",
@@ -1238,9 +1454,10 @@
     "name": "Spider",
     "description": "",
     "value": 480,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_Ykq",
@@ -1248,9 +1465,10 @@
     "name": "Stinkbug",
     "description": "",
     "value": 120,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_vko",
@@ -1258,9 +1476,10 @@
     "name": "Tarantula",
     "description": "",
     "value": 8000,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": true
+    "is_aggressive": true
   },
   {
     "id": "BUG_Lzp",
@@ -1268,9 +1487,10 @@
     "name": "Tiger Beetle",
     "description": "",
     "value": 1500,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_NK3",
@@ -1278,9 +1498,10 @@
     "name": "Tiger Butterfly",
     "description": "",
     "value": 240,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_eaA",
@@ -1288,9 +1509,10 @@
     "name": "Violin Beetle",
     "description": "",
     "value": 450,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_j7V",
@@ -1298,9 +1520,10 @@
     "name": "Walker Cicada",
     "description": "",
     "value": 400,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_8dB",
@@ -1308,9 +1531,10 @@
     "name": "Walking Leaf",
     "description": "",
     "value": 600,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_wZv",
@@ -1318,9 +1542,10 @@
     "name": "Walking Stick",
     "description": "",
     "value": null,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_aL3",
@@ -1328,9 +1553,10 @@
     "name": "Wasp",
     "description": "",
     "value": 2500,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": true
+    "is_aggressive": true
   },
   {
     "id": "BUG_ZKd",
@@ -1338,9 +1564,10 @@
     "name": "Wharf Roach",
     "description": "",
     "value": 200,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "BUG_bRL",
@@ -1348,9 +1575,10 @@
     "name": "Yellow Butterfly",
     "description": "",
     "value": 160,
-    "months": [],
+    "northernMonths": [],
+    "southernMonths": [],
     "hours": [],
-    "isAggressive": false
+    "is_aggressive": false
   },
   {
     "id": "FISH_7O",
@@ -1361,7 +1589,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -1406,13 +1648,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -1445,11 +1695,17 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -1482,11 +1738,17 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -1519,7 +1781,7 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "MAR",
       "APR",
       "MAY",
@@ -1529,6 +1791,17 @@
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -1568,7 +1841,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -1603,13 +1890,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       9,
@@ -1632,12 +1927,19 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP"
     ],
     "hours": [
       0,
@@ -1677,7 +1979,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -1729,11 +2045,17 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG"
     ],
     "hours": [
       0,
@@ -1759,7 +2081,7 @@
     "locations": [
       "PIER"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -1769,6 +2091,17 @@
       "SEP",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT"
     ],
     "hours": [
       0,
@@ -1808,7 +2141,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -1843,13 +2190,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -1889,7 +2244,21 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -1941,13 +2310,21 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -1981,7 +2358,7 @@
       "RIVER",
       "POND"
     ],
-    "months": [
+    "northernMonths": [
       "MAR",
       "APR",
       "MAY",
@@ -1989,6 +2366,15 @@
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2021,7 +2407,7 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "MAR",
       "APR",
       "MAY",
@@ -2029,6 +2415,15 @@
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2068,13 +2463,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2114,7 +2517,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -2168,13 +2585,21 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2214,7 +2639,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -2266,7 +2705,7 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -2274,6 +2713,15 @@
       "OCT",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT"
     ],
     "hours": [
       0,
@@ -2313,7 +2761,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -2358,11 +2820,17 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       4,
@@ -2395,12 +2863,19 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP"
     ],
     "hours": [
       0,
@@ -2433,7 +2908,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -2478,11 +2967,17 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2522,11 +3017,17 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR"
     ],
     "hours": [
       0,
@@ -2559,10 +3060,15 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "DEC"
     ],
     "hours": [
       9,
@@ -2585,13 +3091,21 @@
     "locations": [
       "PIER"
     ],
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2631,7 +3145,7 @@
     "locations": [
       "RIVER_CLIFF"
     ],
-    "months": [
+    "northernMonths": [
       "MAR",
       "APR",
       "MAY",
@@ -2639,6 +3153,15 @@
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2671,7 +3194,21 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -2723,11 +3260,17 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2760,7 +3303,7 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
@@ -2769,6 +3312,16 @@
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       9,
@@ -2791,11 +3344,17 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2828,7 +3387,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -2880,12 +3453,19 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -2925,8 +3505,11 @@
     "locations": [
       "RIVER_MOUTH"
     ],
-    "months": [
+    "northernMonths": [
       "SEP"
+    ],
+    "southernMonths": [
+      "MAR"
     ],
     "hours": [
       0,
@@ -2966,7 +3549,21 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -3011,10 +3608,15 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "MAR",
       "APR",
       "MAY"
+    ],
+    "southernMonths": [
+      "SEP",
+      "OCT",
+      "NOV"
     ],
     "hours": [
       0,
@@ -3054,13 +3656,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -3100,10 +3710,15 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY"
     ],
     "hours": [
       0,
@@ -3136,10 +3751,15 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "FEB",
+      "MAR",
+      "APR"
     ],
     "hours": [
       0,
@@ -3179,9 +3799,13 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB"
     ],
     "hours": [
       4,
@@ -3214,7 +3838,7 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
@@ -3223,6 +3847,16 @@
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       9,
@@ -3245,12 +3879,19 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       9,
@@ -3273,13 +3914,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
       "APR",
       "MAY",
       "DEC"
+    ],
+    "southernMonths": [
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV"
     ],
     "hours": [
       0,
@@ -3319,10 +3968,15 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR"
     ],
     "hours": [
       4,
@@ -3355,7 +4009,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -3407,7 +4075,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -3442,11 +4124,17 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "SEP",
       "OCT",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN"
     ],
     "hours": [
       0,
@@ -3486,11 +4174,17 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -3530,10 +4224,15 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "DEC"
+    ],
+    "southernMonths": [
+      "JUN",
+      "JUL",
+      "AUG"
     ],
     "hours": [
       0,
@@ -3573,7 +4272,21 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -3608,10 +4321,15 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR"
     ],
     "hours": [
       0,
@@ -3651,13 +4369,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       9,
@@ -3680,7 +4406,21 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -3715,11 +4455,17 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "AUG",
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY"
     ],
     "hours": [
       4,
@@ -3752,7 +4498,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -3804,12 +4564,19 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -3849,11 +4616,17 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -3876,8 +4649,11 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "SEP"
+    ],
+    "southernMonths": [
+      "MAR"
     ],
     "hours": [
       0,
@@ -3910,11 +4686,17 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -3947,7 +4729,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+    ],
+    "southernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -3999,11 +4795,17 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
       "DEC"
+    ],
+    "southernMonths": [
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP"
     ],
     "hours": [
       0,
@@ -4043,7 +4845,7 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
@@ -4052,6 +4854,16 @@
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -4091,7 +4903,7 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
@@ -4099,6 +4911,15 @@
       "AUG",
       "SEP",
       "OCT"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       9,
@@ -4121,9 +4942,13 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "FEB",
+      "MAR"
     ],
     "hours": [
       0,
@@ -4156,7 +4981,7 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -4165,6 +4990,17 @@
       "JUN",
       "JUL",
       "AUG",
+      "DEC"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT",
+      "NOV",
       "DEC"
     ],
     "hours": [
@@ -4205,11 +5041,17 @@
     "locations": [
       "RIVER_CLIFF"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
       "DEC"
+    ],
+    "southernMonths": [
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP"
     ],
     "hours": [
       0,
@@ -4242,7 +5084,7 @@
     "locations": [
       "RIVER_MOUTH"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
@@ -4250,6 +5092,15 @@
       "OCT",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP"
     ],
     "hours": [
       0,
@@ -4289,11 +5140,17 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -4333,13 +5190,21 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -4379,10 +5244,15 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR"
     ],
     "hours": [
       0,
@@ -4422,12 +5292,19 @@
     "locations": [
       "POND"
     ],
-    "months": [
+    "northernMonths": [
       "MAR",
       "APR",
       "MAY",
       "JUN",
       "JUL"
+    ],
+    "southernMonths": [
+      "JAN",
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
@@ -4467,11 +5344,17 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "SEP",
       "OCT",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN"
     ],
     "hours": [
       0,
@@ -4511,13 +5394,21 @@
     "locations": [
       "PIER"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
       "APR",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP",
+      "OCT"
     ],
     "hours": [
       0,
@@ -4557,11 +5448,17 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "JUN",
       "JUL",
       "AUG",
       "SEP"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "DEC"
     ],
     "hours": [
       0,
@@ -4601,13 +5498,21 @@
     "locations": [
       "RIVER"
     ],
-    "months": [
+    "northernMonths": [
       "JAN",
       "FEB",
       "MAR",
       "OCT",
       "NOV",
       "DEC"
+    ],
+    "southernMonths": [
+      "APR",
+      "MAY",
+      "JUN",
+      "JUL",
+      "AUG",
+      "SEP"
     ],
     "hours": [
       0,
@@ -4647,7 +5552,7 @@
     "locations": [
       "SEA"
     ],
-    "months": [
+    "northernMonths": [
       "APR",
       "MAY",
       "JUN",
@@ -4656,6 +5561,16 @@
       "SEP",
       "OCT",
       "NOV"
+    ],
+    "southernMonths": [
+      "JAN",
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "OCT",
+      "NOV",
+      "DEC"
     ],
     "hours": [
       0,
